@@ -51,7 +51,7 @@
 
 - [Factory Method]()
 - [Abstract Factory]()
-- [Builder]()
+- [Builder](./creational-patterns/3-builder.md)
 - [Prototype]()
 - [Singleton]()
 
