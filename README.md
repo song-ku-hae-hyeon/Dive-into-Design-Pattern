@@ -50,7 +50,7 @@
 ### Creational Patterns
 
 - [Factory Method]()
-- [Abstract Factory]()
+- [Abstract Factory](./creational-patterns/2-abstract-factory.md)
 - [Builder](./creational-patterns/3-builder.md)
 - [Prototype]()
 - [Singleton]()
