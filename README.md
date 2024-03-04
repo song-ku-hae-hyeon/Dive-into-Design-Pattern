@@ -57,7 +57,7 @@
 
 ### Structural Patterns
 
-TBD
+- [Adapter](./structural-patterns/6-adapter.md)
 
 ### Behavioral Patterns
 
