@@ -58,6 +58,8 @@
 ### Structural Patterns
 
 - [Adapter](./structural-patterns/6-adapter.md)
+- [Bridge]()
+- [Composite](./structural-patterns/8-composite.md)
 
 ### Behavioral Patterns
 
