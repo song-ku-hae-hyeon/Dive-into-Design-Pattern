@@ -41,7 +41,7 @@
 - 여러 래퍼로 객체를 포장해서 모든 래퍼들의 합성된 행동들을 객체에 추가할 수 있음.
   - 클라이언트 코드는 데코레이터들의 집합으로 래핑해야 함.
   - 모든 데코레이터들이 기초 알림자와 같은 인터페이스를 구현해서 가능한 일.
-    <image src="https://github.com/song-ku-hae-hyeon/Dive-into-Design-Pattern/assets/50704533/832fc5e8-0e6d-4e74-a2a5-d1d3012333de" width="400"/>
+  <image src="https://github.com/song-ku-hae-hyeon/Dive-into-Design-Pattern/assets/50704533/832fc5e8-0e6d-4e74-a2a5-d1d3012333de" width="400"/>
 
 ## 의사코드
 
