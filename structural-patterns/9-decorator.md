@@ -33,13 +33,11 @@
 ### 래퍼 객체를 생성
 
 - 래퍼는 일부 대상 객체와 연결할 수 있는 객체
-
   - 대상 객체와 같은 메서드들의 집합이 포함
     - 동일한 인터페이스 -> 클라이언트 관점에서는 모두 같은 객체
   - 자신이 받는 모든 요청을 대상 객체에 위임
     - 위임하기 전/후에 무언가를 수행할 수 있음
-      <image src="https://github.com/song-ku-hae-hyeon/Dive-into-Design-Pattern/assets/50704533/2e28e10a-5ae6-497b-9e26-4837da6ab383" width="400"/>
-
+    <image src="https://github.com/song-ku-hae-hyeon/Dive-into-Design-Pattern/assets/50704533/2e28e10a-5ae6-497b-9e26-4837da6ab383" width="400"/>
 - 여러 래퍼로 객체를 포장해서 모든 래퍼들의 합성된 행동들을 객체에 추가할 수 있음.
   - 클라이언트 코드는 데코레이터들의 집합으로 래핑해야 함.
   - 모든 데코레이터들이 기초 알림자와 같은 인터페이스를 구현해서 가능한 일.
