@@ -63,6 +63,13 @@
 
 ### Behavioral Patterns
 
+- [Chain of responsibility](./behavioral-patterns/13-chain-of-responsibility.md)
+- [Command]()
+- [Iterator]()
+- [Mediator]()
+- [Memento]()
+- [Observer]()
+
 TBD
 
 ## Reference
