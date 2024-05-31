@@ -68,7 +68,7 @@
 - [Iterator]()
 - [Mediator]()
 - [Memento]()
-- [Observer]()
+- [Observer](./behavioral-patterns/18-observer.md)
 
 TBD
 
