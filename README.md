@@ -69,6 +69,7 @@
 - [Mediator]()
 - [Memento]()
 - [Observer](./behavioral-patterns/18-observer.md)
+- [State](./behavioral-patterns/19-state.md)
 
 TBD
 
